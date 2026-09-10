@@ -148,9 +148,8 @@ If the PPT is too large for GitHub, use Google Drive/OneDrive and put the access
 
 ## 9. Demo Video
 
-A demo video is **optional**, but recommended.
-
-Add the YouTube/Google Drive link in [submission/DEMO.md](submission/DEMO.md).
+YouTube link: [submission/DEMO.md](submission/DEMO.md).
+https://www.youtube.com/watch?v=Rpcbo7eagqo
 
 ## 10. Screenshots / Prototype Photos
 
